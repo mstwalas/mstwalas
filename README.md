@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- My Linked IN [https://www.linkedin.com/in/mostafa-elsaied-08b568a5/](https://www.linkedin.com/in/mostafa-elsaied-08b568a5/)
+- My LinkedIN [https://www.linkedin.com/in/mostafa-elsaied-08b568a5/](https://www.linkedin.com/in/mostafa-elsaied-08b568a5/)
 
 - 📫 How to reach me **mostafaelsaeed1544@gmail.com**
 
