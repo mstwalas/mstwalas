@@ -2,7 +2,7 @@
 <h3 align="center">A passionate BackEnd developer from Egypt</h3><h2 align="left">
  <abc>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="center" alt="Coder GIF" width="500">
  </abc>
 
 - 🌱 I’m currently Working With **Asp.Net Core**
