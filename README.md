@@ -4,7 +4,6 @@
  <p align="center">
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  alt="Coder GIF" width="500">
 </p>
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="center" alt="Coder GIF" width="500">
  
 - 🌱 I’m currently Working With **Asp.Net Core**
 
