@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mostafa</h1>
 <h3 align="center">A passionate BackEnd developer from Egypt</h3>
 
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
 - 🌱 I’m currently Working With **Asp.Net Core**
 
 - 🌱 I’m currently learning **Angular**
